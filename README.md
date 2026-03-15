@@ -1,0 +1,1 @@
+# FarmCare-Automated-Soil-Health-Monitoring-Solution
